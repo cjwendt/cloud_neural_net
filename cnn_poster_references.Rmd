@@ -1,0 +1,15 @@
+---
+title: "A Machine Learning Model for Cloud Classification"
+author: "Caroline Wendt"
+date: "07 May 2020"
+output: pdf_document
+bibliography: cnn_poster_bib.bib
+nocite: '@*'
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+# References
