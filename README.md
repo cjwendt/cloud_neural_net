@@ -1,2 +1,5 @@
 # cloud_neural_net
-A poster presentation of a convolutional neural network for classifying cloud images (Linear Algebra II at CSU)
+
+MATH 469: Linear Algebra II
+
+A `posterdown` presentation of a convolutional neural network for classifying cloud images.
